@@ -1,0 +1,49 @@
+#postForm {
+    margin: 5% 20%;
+    background-color: lightgray;
+    border-radius: 1%;
+}
+.main_heading {
+    margin-left: 40%;
+}
+.main_div {
+    padding: 5% 10%;
+}
+.btn_alrt_success {
+    margin-left: 58%;
+    cursor: pointer;
+}
+.blog_img {
+    height: 350px;
+    margin: auto;
+}
+.back_create_btn {
+    margin-left: 77%;
+}
+.usr-alert {
+    margin-left: 70%;
+    cursor: pointer;
+}
+.pass_alert {
+    margin-left: 30%;
+    cursor: pointer;
+}
+.subcr_heading {
+    margin-left: 30%;
+}
+.subs_img {
+    height: 287px;
+    margin: auto;
+}
+#card_div {
+    margin: 2% 10% !important;
+}
+.card_heading {
+    font-size: 3rem;
+}
+.card-title {
+    font-size: 1.5rem !important;
+}
+.subscr_alert{
+    margin-left: 57%; cursor:pointer;
+}
